@@ -6,3 +6,6 @@ using decision trees, naive Bayes, random forests, and neural networks. The real
 been modified. 
 Engineered minority over-testing stability information is made utilizing the strategy framework.
 The precision of the brain not entirely settled by the disarray network appraisal is 96%, trailed by naive Bayes (95%),random forest (95%), and decision tree (92%).
+
+#SYSTEM ARCHITECHURE
+![Picture1](https://github.com/user-attachments/assets/2f60abac-c68e-4641-839a-f44aef0ac52d)
